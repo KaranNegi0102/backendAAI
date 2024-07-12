@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://anuraggo3l07:Pagaldeven23@trialproject.cbh5son.mongodb.net/ToDo_List_Tasks"
+  "mongodb+srv://karannegi0102:<k1a2r3a4n5>@cluster0.hqxsoo1.mongodb.net/TaskManagement"
 );
 
 mongoose.connection.on("connected", () => {
